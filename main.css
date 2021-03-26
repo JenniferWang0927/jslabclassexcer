@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Fraunces";
+    src: url("./Fraunces.woff2") format("woff2");
+}
+
+body {
+    font-family: "Fraunces", sans-serif;
+}
+.message.big{
+    font: size 10rem;
+}
+.container{
+    background:rgb(241, 241, 192);
+    font-size: 5rem;
+}
+.click-me{
+    font-size: 6rem;
+    border: 1px;
+    width:200px;
+    width: 200px;
+
+    background: white;
+
+}
+.click-me2{
+    font-size: 6rem;
+    border: 100px;
+    width:200px;
+    background: white;
+
+}
